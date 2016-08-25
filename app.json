@@ -1,0 +1,16 @@
+{
+  "name": "asterisk-centos",
+  "description": "asterisk app on centos",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
